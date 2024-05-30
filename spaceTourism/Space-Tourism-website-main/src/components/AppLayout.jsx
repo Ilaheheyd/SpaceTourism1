@@ -1,5 +1,5 @@
 import { Outlet, useLocation } from "react-router-dom";
-import Footer from "./Footer";
+
 import Navbar from "./Navbar";
 import styled from "styled-components";
 import { breakpoints } from "../styles/GlobalStyles";
